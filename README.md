@@ -1,2 +1,2 @@
 # DLandCV
-Deep Learning anf computer vision
+Deep Learning and computer vision
